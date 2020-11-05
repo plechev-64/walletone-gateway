@@ -1,0 +1,8 @@
+Name: WalletOne Gateway (Единая Касса);
+Parent Addon: user-balance;
+Version: 2.1.2;
+Support Core: 16.24.0;
+ItemID: 11436;
+Description: Подключение сайта к платежному агрегатору Единая Касса https://walletone.com;
+Author: Плечёв Андрей;
+Author URI: http://codeseller.ru/;
